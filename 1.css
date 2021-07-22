@@ -1,0 +1,91 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.vat {
+    font-size: 12px;
+    padding-left: 10px;
+    color: #777777;
+}
+
+.maudo {
+    font-weight: 600;
+    padding: 0px 10px;
+    font-size: 20px;
+    color: #DC3545;
+}
+
+.thanhtien {
+    padding: 15px 0 20px 15px;
+}
+
+.phai.float-right {
+    font-weight: 600;
+}
+
+.tinhgia {
+    padding: 10px 15px 20px 15px;
+    /* border-bottom: 1px solid gray; */
+    border-bottom: 1px solid #dbdbdb;
+}
+
+div#dssanpham {}
+
+.btn.btn-danger.xoasp {
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.btn.btn-success.capnhatsp {
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+input.soluongsp {
+    width: 110%;
+    padding: 0 0 0 5px;
+}
+
+.giatiensp {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.noidungsp {
+    font-size: 12px;
+    text-align: justify;
+    padding-top: 5px;
+    color: #777777;
+}
+
+a.tieude {
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+}
+
+.row.card {
+    padding: 20px;
+}
+
+h3.tdto {
+    padding: 15px;
+}
+
+body {
+    font-size: 14px;
+}
+.gia2 {
+  display: block;
+  padding-bottom: 15px;
+}
+.ndspkhac{
+  text-align: justify;
+  color: #777;
+}
