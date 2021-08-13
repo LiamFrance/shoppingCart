@@ -30,8 +30,6 @@
     border-bottom: 1px solid #dbdbdb;
 }
 
-div#dssanpham {}
-
 .btn.btn-danger.xoasp {
     font-size: 12px;
     font-weight: 600;
@@ -88,4 +86,10 @@ body {
 .ndspkhac{
   text-align: justify;
   color: #777;
+}
+.nutmuangay{
+    cursor: pointer;
+}
+.spkhac{
+    margin-bottom: 10px;
 }

@@ -7,9 +7,18 @@ import {SanPham} from "./sanpham";
     this.soluong = soluong;
   }
   tinhGiaTien() : number {
-    return ;
+    return 2;
   }
   showSanPhamTrongGioHang(): string {
-    return;
+    return "test";
+  }
+  public laySanpham(): SanPham {
+    return this.sanpham;
+  }
+  public thaydoisoluong(soluong: number): void{
+    this.soluong = soluong;
+  }
+  public laysoluong() : number{
+    return this.soluong;
   }
  }
